@@ -1,0 +1,12 @@
+:root {
+    --cuadrado: #018AD7;
+    --circulo: #DD585A;
+    --triangulo: #219749; 
+}
+
+body {
+    margin: 0;
+    background-image: linear-gradient(to bottom, #018ad7, #6a7fd6, #9d71c8, #c161ae, #d7568c, #dd566b, #d75e4b, #c86b2e, #ad7b12, #8b880c, #629127, #219749);
+    width: 100%;
+    height: 100vh;
+}
